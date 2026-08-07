@@ -1,4 +1,4 @@
----
+ji---
 description: "Contains all avatar product users can buy in VRChat."
 sidebar_custom_props:
     customIcon: 🛒
